@@ -36,5 +36,4 @@ Open Inventory is an open-source project licensed under the [MIT License](LICENS
 ## Acknowledgements
 This app was inspired by the need for better time management and productivity in today's fast-paced world.
 
-## Contact
-For any inquiries or feedback, don't hesitate to get in touch with **Umer Ghafoor** at *umerghaforr@gmail.com*.
+
